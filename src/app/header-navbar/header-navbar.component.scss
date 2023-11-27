@@ -1,0 +1,31 @@
+div.navbar{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: fixed;
+  position: 0;
+  margin: 0;
+  padding-top: 0;
+  height: 70px;
+  background-color: white;
+  width: 100%;
+  border-bottom: solid 1px rgb(190, 0, 0);
+}
+.menu{
+  padding-left: 30px;
+}
+.logbtn{
+  padding-right: 30px;
+}
+.logo{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.navbtn{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+

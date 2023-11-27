@@ -1,0 +1,27 @@
+<h1>Add chili perppers</h1>
+
+<div class="container">
+  <form id="addform" [formGroup]="fg" (submit)="doneAdd()">
+    <div class="formular">
+      <div class="urlField" >
+        <h3>Picture url</h3>
+        <input type="text" formControlName="photoUrl">
+      </div>
+      <div class="nameField" >
+        <h3>Name</h3>
+        <input type="text" formControlName="name">
+      </div>
+      <div class="powerField" >
+        <h3>Scoville heat units</h3>
+        <input type="number" formControlName="power">
+      </div>
+      <div class="dspField">
+        <h3>Description</h3>
+        <input type="text" formControlName="description">
+      </div>
+      <div class="btn">
+        <button class="addbtn" type="submit">Done</button>
+      </div>
+    </div>
+  </form>
+</div>

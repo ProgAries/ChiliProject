@@ -1,0 +1,16 @@
+
+<div class="container">
+
+  <div class="Title">
+    <h1><b>{{chiliPeppers.name}}</b></h1>
+  </div>
+  <div class="img">
+    <img src="{{chiliPeppers.photoUrl}}" alt="">
+  </div>
+  <div class="description">
+    <h5><h4 *ngIf="chiliPeppers.power >= 1000000">Over 1Milion scoville heat units </h4>{{chiliPeppers.power}} SHU</h5>
+    <br>
+    <h3>{{chiliPeppers.description}}</h3>
+  </div>
+
+</div>

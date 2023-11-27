@@ -1,0 +1,32 @@
+{
+  "piments": [
+    {
+      "id": 1,
+      "photoUrl": "https://www.chilipeppermadness.com/wp-content/uploads/2019/11/Aji-Dulce-Chili-Peppers1-720x960.jpg",
+      "name": "Aji Dulce",
+      "power": 1000,
+      "description": "The aji dulce pepper is a brightly colored pod popular in the Caribbean, particularly Puerto Rico, Cuba and the Dominican Republic, with sweet flavor and mild heat. Learn all about them. There are many different types of aji peppers in the world, most of the produced in the South American and Caribbean region. They range from very mild to somewhat hot, depending on the variety, though the majority of them offer up a wonderful fruity flavor. Because of that flavor, and also how easily they grow, they are important to many different cuisines. The ají dulce is particularly popular in Caribbean cuisines, where it is native to the area, particularly Puerto Rican cuisine, Cuban cuisine, and Dominican cuisine. The peppers is classified as Capsicum chinense, which are native to the Yucatan Peninsula area of Central America and on the Caribbean islands. Ají dulces are also known as ají dulce, ajicito or ajíes in Puerto Rico; ají gustoso or ají cachucha in the Domincan Republic; or ají cachucha in Cuba. The name translates to 'Sweet' (dulce) 'Pepper' (aji). Aji dulce peppers are small, brightly colored pods that look very much like habanero peppers, though without the incredible habanero heat. The peppers start off green and mature to bright orange, yellow or mostly to a vibrant red. The pods can sometimes be wrinkly, though many grown with smoother skin and can vary somewhat from pod to pod, ranging from squat to round to oblong. The peppers average 2 to 7 centimeters in diameter and 2 to 10 centimeters in length with glossy skin."
+    },
+    {
+      "photoUrl": "https://www.chilipeppermadness.com/wp-content/uploads/2015/10/7-Pot-Barrackapore2-720x960.jpg",
+      "name": "Pot Barrackapore Chili Pepper",
+      "power": 1036000,
+      "description": "This is one of my favorite chili peppers. I love all 7-Pot peppers for their heat and fruitiness. In fact, it is one of the hottest chili peppers in the world. The 7-Pot Barrackapore comes from Trinidad and is a rare chili pepper. The pots are shaped similar to a habanero or a ghost pepper. The skin is typically pimpled and form a tail, per the photos. The pods start out green and ripen to a vibrant shade of red.",
+      "id": 2
+    },
+    {
+      "photoUrl": "https://www.chilipeppermadness.com/wp-content/uploads/2019/10/7-Pot-Primo-720x960.jpg",
+      "name": "Pot Primo",
+      "power": 1473480,
+      "description": "The 7 Pot Primo is a cross between a Naga Morich and a Trinidad 7 Pot pepper. It was created by Troy Primeaux, (nickname Primo), a horticulturist from Louisiana. He began crossing the Naga Morich and Trinidad 7 Pot seeds around 2005. What Does the 7 Pot Primo Look Like?  The 7 Pot Primo has a scorpion-like tail. The skin has the characteristic bumpy and pimply skin of other superhot chili peppers, though the tail is most characteristic.  The pods can grow rather lumpy, as if they are mildly deformed versions of normal 7 pot peppers. It normally matures to a vibrant red color, though there are also orange and yellow varieties of this pepper.",
+      "id": 3
+    },
+    {
+      "photoUrl": "https://www.chilipeppermadness.com/wp-content/uploads/2018/10/Ghost-Peppers1-720x960.jpg",
+      "name": "Ghost Pepper",
+      "power": 1000000,
+      "description": "The ghost pepper (aka the Bhut Jolokia) is one of the hottest peppers in the world, topping over 1 Million Scoville Heat Units. Learn more about it. Ghost Pepper Scoville Heat Units: 855,000 – 1,041,427 SHU Capsicum Chinense What is a Ghost Pepper?  The ghost pepper (aka the Bhut Jolokia) is one of the hottest peppers in the world, topping over 1 Million SHU (Scoville Heat Units).  It was awarded the distinction of the World's Hottest of All Spices by the Guinness World Records in 2006, topping the Red Savina Habanero, though was eventually toppled several times over. The current record holder for the hottest pepper in the world is the Carolina Reaper.  Ripe peppers measure 2.5 to 3.3 inches long and are usually red, though there are red, yellow, orange, white, purple or chocolate color varieties. They originate in Northern India and the peppers have been around for generations, though only cultivated in the western world since the turn of the century.",
+      "id": 4
+    }
+  ]
+}

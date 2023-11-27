@@ -1,0 +1,13 @@
+<div class="container">
+  <h1>Chili Peppers</h1>
+
+  <ul>
+    <li *ngFor="let c of chiliList">
+      <img id="img" src="{{c.photoUrl}}">
+      <p>Name : {{c.name}}</p>
+      <p>Power : {{c.power}}</p>
+      <button (click)="sendId(c.id)">description</button>
+    </li>
+  </ul>
+</div>
+
