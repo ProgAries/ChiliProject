@@ -1,0 +1,62 @@
+
+
+<div class="login">
+  <h3>Login</h3>
+  <div>
+    <h5>Email</h5>
+    <input type="email" [ngModel]="inEmail">
+  </div>
+  <div>
+    <h5>Password</h5>
+    <input type="text" [ngModel]="inPass">
+  </div>
+  <div>
+    <button (click)="login(inEmail,inPass)">done</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+      sign in
+    </button>
+  </div>
+
+</div>
+
+
+<!-- Button trigger modal -->
+
+<!-- Modal -->
+<div style="margin-top: 100px;" class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="staticBackdropLabel">Registrate now</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <form id="addform" [formGroup]="fg" (submit)="signin()">
+          <div class="formular">
+
+            <div class="urlField" >
+              <h3>Nick-Name</h3>
+              <input type="text" formControlName="nickname">
+            </div>
+
+            <div class="nameField" >
+              <h3>E-mail</h3>
+              <input type="email" formControlName="email">
+            </div>
+
+            <div class="powerField" >
+              <h3>Password</h3>
+              <input type="password" formControlName="password">
+            </div>
+
+
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" (click)="signin()">Done</button>
+      </div>
+    </div>
+  </div>
+</div>

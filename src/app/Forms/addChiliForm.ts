@@ -6,3 +6,4 @@ export const AddChili = {
   power : [0, [Validators.required]],
   description : ["", [Validators.required, Validators.minLength(20)]]
 }
+

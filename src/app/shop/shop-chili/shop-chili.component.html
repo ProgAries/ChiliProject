@@ -1,11 +1,10 @@
-
 <div class="box">
   <div *ngFor="let c of chiliList" class="card" style="width: 18rem;">
     <img id="img" [src]="c.photoUrl" class="card-img-top" >
     <div class="card-body">
       <h5 class="card-title">{{c.name}}</h5>
       <p class="card-text">{{c.name}}'s power: {{c.power}} SHU</p>
-      <button (click)="sendId(c.id)" class="btn btn-primary">Description</button>
+      <button (click)="navToDescript(c.id)" class="btn btn-primary">Description</button>
     </div>
   </div>
-
+</div>

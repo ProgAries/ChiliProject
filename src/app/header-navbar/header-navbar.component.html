@@ -18,10 +18,13 @@
             <button type="button" class="btn btn-primary">Home</button>
           </div>
           <div style="margin: 10px;">
-            <button type="button" class="btn btn-primary">Chili Peppers</button>
+            <button type="button" class="btn btn-primary" (click)="navToChiliList()">Chili Peppers</button>
           </div>
           <div style="margin: 10px;">
             <button type="button" class="btn btn-primary">Hot Sauces</button>
+          </div>
+          <div style="margin: 10px;">
+            <button type="button" class="btn btn-primary" (click)="navToAdd()">Add chili</button>
           </div>
         </div>
       </div>
@@ -33,6 +36,7 @@
     <h3 style="color: rgb(190, 0, 0);">Peppers</h3>
   </div>
   <div class="logbtn">
-    <mat-icon>account_circle</mat-icon>
+    <mat-icon *ngIf="isLogged() == false" (click)="navToLogin()">account_circle</mat-icon>
+    <mat-icon *ngIf="isLogged() == true" (click)="navToAccount()">account_circle</mat-icon>
   </div>
 </div>

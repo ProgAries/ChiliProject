@@ -1,3 +1,19 @@
 .container{
-  margin-top: 80px;
+  margin: 80px;
+
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+#img{
+  height: 760px;
+  width: 620px;
+}
+
+.description{
+  margin: 30px;
 }

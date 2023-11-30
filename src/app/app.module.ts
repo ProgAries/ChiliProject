@@ -14,6 +14,11 @@ import { FooterComponent } from './footer/footer.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { SharedModule } from './shared/shared.module';
 import { DescriptComponent } from './pages/descript/descript.component';
+import { LoginComponent } from './pages/login/login.component';
+import { ShopChiliComponent } from './shop/shop-chili/shop-chili.component';
+import { NavdivComponent } from './shop/navdiv/navdiv.component';
+import { ShopSauceComponent } from './shop/shop-sauce/shop-sauce.component';
+import { ShoppingCartComponent } from './shop/shopping-cart/shopping-cart.component';
 
 
 @NgModule({
@@ -25,6 +30,11 @@ import { DescriptComponent } from './pages/descript/descript.component';
     HeaderNavbarComponent,
     FooterComponent,
     DescriptComponent,
+    LoginComponent,
+    ShopChiliComponent,
+    NavdivComponent,
+    ShopSauceComponent,
+    ShoppingCartComponent,
   ],
   imports: [
     BrowserModule,

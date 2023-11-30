@@ -27,6 +27,50 @@
       "power": 1000000,
       "description": "The ghost pepper (aka the Bhut Jolokia) is one of the hottest peppers in the world, topping over 1 Million Scoville Heat Units. Learn more about it. Ghost Pepper Scoville Heat Units: 855,000 – 1,041,427 SHU Capsicum Chinense What is a Ghost Pepper?  The ghost pepper (aka the Bhut Jolokia) is one of the hottest peppers in the world, topping over 1 Million SHU (Scoville Heat Units).  It was awarded the distinction of the World's Hottest of All Spices by the Guinness World Records in 2006, topping the Red Savina Habanero, though was eventually toppled several times over. The current record holder for the hottest pepper in the world is the Carolina Reaper.  Ripe peppers measure 2.5 to 3.3 inches long and are usually red, though there are red, yellow, orange, white, purple or chocolate color varieties. They originate in Northern India and the peppers have been around for generations, though only cultivated in the western world since the turn of the century.",
       "id": 4
+    },
+    {
+      "photoUrl": "https://www.chilipeppermadness.com/wp-content/uploads/2013/09/Birds-Eye-Peppers-720x960.jpg",
+      "name": "African Bird’s Eye / African Devil",
+      "power": 175000,
+      "description": "The African bird's eye pepper is a small, vibrantly colored hot pepper found in the African wild, clocking in at 175,000 Scoville Heat Units, popular in soups, hot sauces and more. lso sometimes known as Piri Piri or Pili Pili, the African Bird’s Eye is a small chile, growing to only about 1 inch, but they pack a lot of punch. They mature to red or purple, and have a tapered shape, with a blunt point. Historically found in the African wild, it has recently been grown commercially in some parts of Africa, often to be used as pepper extract or as organic pest control.  Scoville Heat Units: 175,000 SHU  Also sometimes known as Piri Piri or Pili Pili, the African Bird’s Eye is a small chile, growing to only about 1 inch, but they pack a lot of punch. They mature to red or purple, and have a tapered shape, with a blunt point. Historically found in the African wild, it has recently been grown commercially in some parts of Africa, often to be used as pepper extract or as organic pest control.",
+      "id": 5
+    },
+    {
+      "photoUrl": "https://www.chilipeppermadness.com/wp-content/uploads/2013/10/Fatalii-Pepper-720x960.jpg",
+      "name": "Fatalii Chili Peppers",
+      "power": 225000,
+      "description": "The Fatalii comes from central and southern Africa, and is one of the hottest peppers in the world. With the heat level of a habanero, it has a more fruity, citrus flavor, and packs an instant, intense burn, unlike the habanero, whose heat “sneaks up on you.” The peppers grow to about 3 inches long, and mature to yellow. They have somewhat thin walls, and may be dried if cut lengthwise. They could be made into a powder for an intense spice, or frozen for later use.",
+      "id": 6
+    },
+    {
+      "photoUrl": "https://www.chilipeppermadness.com/wp-content/uploads/2019/04/Carolina-Reaper-Pepper-720x960.jpg",
+      "name": "Carolina Reaper",
+      "power": 2000000,
+      "description": "The Carolina Reaper is currently the hottest pepper in the world, measuring over 2 Million Scoville Heat Units. It was developed by grower Ed Currie. Learn more about the Carolina Reaper here. With a Guinness-submitted 1,641,183 Scoville Heat Units (previously submitted as 1,569,383 SHU average and recently measured peak levels of over 2,200,000 SHU, SMOKIN’ ED’S CAROLINA REAPER® has officially completed its long journey to the top of “superhot” chili charts. What is the Carolina Reaper Chili Pepper?  This is an extremely hot chili pepper developed by a grower named Ed Currie, and is currently the hottest pepper in the world. It is also called HP22B pepper. As of 2013 it was over 7 generations old. Ed created this chili pepper plant variety by crossing a Pakistani Naga with a Red Habanero type from St Vincents Island in the West Indies. It was bred in South Carolina and tested at over 2.2 Million Scoville Heat Units (with an aveerage of 1,641,000 SHU) by Winthrop University.",
+      "id": 7
+    },
+    {
+      "photoUrl": "https://www.chilipeppermadness.com/wp-content/uploads/2019/06/Dorset-Naga-Pepper-720x960.jpg",
+      "name": "Dorset Naga",
+      "power": 1500000,
+      "description": "The Dorset Naga pepper is one of the hottest peppers in the world, ranging as high at 1.5 million Scoville Heat Units. It is originally from Bangladesh. Learn more about the pepper below. If you're looking to experience the world of superhot chili peppers, the Dorset Naga is definitely one to add to your list to try. It is a massively hot chili pepper, easily passing the 1 Million Scoville Heat Units line, offering scorching heat and a pleasant fruity aroma.  Chiliheads around the world rejoice in their Nagas, as they are great for cooking into spicy soups and stews, but also for dehydrating for chili powder and for making crazy hot hot sauces. Origins of the Dorset Naga Pepper  Development of the Dorset Naga began near Dorset, England, around 2001, when Joy and Michael Michaud of “Peppers by Post” bought a Naga Morich plant from an Oriental foods store in southern England.  The Naga Morich chili is from Bangladesh and is highly regarded in that community. Over several years they hand selected fruit with the specific characteristics they were looking for, and extracted seeds.  They planted those seeds and continued until they were satisfied with the result. Here we are today with the Dorset Naga, a pepper of distinctively high heat.  The Dorset Naga isn't extremely different from the original Naga Morich, tending toward smoother and thicker pepper walls, with similar heat levels and flavor. How Hot is the Dorset Naga Pepper?  The heat level has been tested repeatedly since 2005 and has ranged from 661,451 Scoville Heat Units (SHU) on the Scoville Scale for green fruit up to 1,032,310 SHU for ripe fruit in 2009.  Another test has measured the heat level as high as 1,598,227 SHU, making it one of the hottest peppers in the world.  Compare this with a typical jalapeno pepper, which measures about 5,000 SHU, and you'll find the hottest Dorset Naga is about 300 times hotter. That is quite hot!  The current hottest pepper in the world is the Carolina Reaper, measuring in at over 2 Million Scoville Heat Units. The Dorset Naga isn't that far off, and is even hotter that the Ghost Pepper (Bhut Jolokia), another famous super hot chili pepper measuring in at around 1 Million SHU. Another comparable pepper is the Trinidad Moruga Scorpion.",
+      "id": 8
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "nickname": "Anto",
+      "email": "a@a.com",
+      "password": "1234",
+      "admin": true
+    },
+    {
+      "nickname": "test",
+      "email": "test@t",
+      "password": "1234",
+      "admin": false,
+      "id": 2
     }
   ]
 }
